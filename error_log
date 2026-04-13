@@ -1,0 +1,31 @@
+[29-Sep-2025 09:55:09 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: float * string in /home/graviranjeninahr/public_html/calc/calc.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/graviranjeninahr/public_html/calc/calc.php on line 111
+[19-Dec-2025 09:33:41 UTC] PHP Warning:  Undefined variable $strips_needed in /home/graviranjeninahr/public_html/calc/calc.php on line 222
+[14-Jan-2026 08:29:58 UTC] PHP Warning:  Undefined variable $strips_needed in /home/graviranjeninahr/public_html/calc/calc.php on line 222
+[14-Jan-2026 08:33:00 UTC] PHP Warning:  Undefined variable $strips_needed in /home/graviranjeninahr/public_html/calc/calc.php on line 222
+[14-Jan-2026 08:35:48 UTC] PHP Warning:  Undefined variable $strips_needed in /home/graviranjeninahr/public_html/calc/calc.php on line 222
+[14-Jan-2026 08:36:38 UTC] PHP Warning:  Undefined variable $strips_needed in /home/graviranjeninahr/public_html/calc/calc.php on line 222
+[14-Jan-2026 08:36:45 UTC] PHP Warning:  Undefined variable $strips_needed in /home/graviranjeninahr/public_html/calc/calc.php on line 222
+[14-Jan-2026 08:36:57 UTC] PHP Warning:  Undefined variable $strips_needed in /home/graviranjeninahr/public_html/calc/calc.php on line 222
+[14-Jan-2026 08:37:21 UTC] PHP Warning:  Undefined variable $strips_needed in /home/graviranjeninahr/public_html/calc/calc.php on line 222
+[14-Jan-2026 08:37:36 UTC] PHP Warning:  Undefined variable $strips_needed in /home/graviranjeninahr/public_html/calc/calc.php on line 222
+[14-Jan-2026 08:38:00 UTC] PHP Warning:  Undefined variable $strips_needed in /home/graviranjeninahr/public_html/calc/calc.php on line 222
+[14-Jan-2026 08:38:10 UTC] PHP Warning:  Undefined variable $strips_needed in /home/graviranjeninahr/public_html/calc/calc.php on line 222
+[14-Jan-2026 08:40:04 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: float * string in /home/graviranjeninahr/public_html/calc/calc.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/graviranjeninahr/public_html/calc/calc.php on line 111
+[14-Jan-2026 08:41:09 UTC] PHP Warning:  Undefined variable $strips_needed in /home/graviranjeninahr/public_html/calc/calc.php on line 222
+[14-Jan-2026 10:05:44 UTC] PHP Warning:  Undefined variable $strips_needed in /home/graviranjeninahr/public_html/calc/calc.php on line 222
+[14-Jan-2026 11:24:24 UTC] PHP Warning:  Undefined variable $strips_needed in /home/graviranjeninahr/public_html/calc/calc.php on line 222
+[27-Jan-2026 08:00:49 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: float * string in /home/graviranjeninahr/public_html/calc/calc.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/graviranjeninahr/public_html/calc/calc.php on line 57
+[28-Jan-2026 16:24:19 UTC] PHP Warning:  Undefined variable $strips_needed in /home/graviranjeninahr/public_html/calc/calc.php on line 222
+[03-Mar-2026 11:01:43 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: float * string in /home/graviranjeninahr/public_html/calc/calc.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/graviranjeninahr/public_html/calc/calc.php on line 111
